@@ -1,0 +1,91 @@
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0001.fits
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0002.fits
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0003.fits
+
+
+               Pulsar Data RFI Finder
+                 by Scott M. Ransom
+
+Assuming the data are PSRFITS format...
+Reading PSRFITS data from 3 files:
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0001.fits'
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0002.fits'
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0003.fits'
+
+    Number of files = 3
+       Num of polns = 2 (summed)
+  Center freq (MHz) = 2000
+    Num of channels = 2048
+    Sample time (s) = 6.144e-05     
+     Spectra/subint = 4096
+   Total points (N) = 15728640
+     Total time (s) = 966.3676416   
+     Clipping sigma = 6.000
+   Invert the band? = False
+          Byteswap? = False
+     Remove zeroDM? = False
+     Apply scaling? = False
+     Apply offsets? = False
+     Apply weights? = True
+
+File  Start Spec   Samples     Padding        Start MJD
+----  ----------  ----------  ----------  --------------------
+1              0     5242880           0  56859.05208333333333
+2        5242880     5242880           0  56859.05581160355555
+3       10485760     5242880           0  56859.05953987377778
+
+Analyzing data sections of length 32768 points (2.01327 sec).
+  Prime factors are:  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+Writing mask data  to 'guppi_56859_SwiftJ1749.4-2807_0002_rfifind.mask'.
+Writing  RFI data  to 'guppi_56859_SwiftJ1749.4-2807_0002_rfifind.rfi'.
+Writing statistics to 'guppi_56859_SwiftJ1749.4-2807_0002_rfifind.stats'.
+
+Massaging the data ...
+
+Amount Complete =   0%Amount Complete =   1%Amount Complete =   2%Amount Complete =   3%Amount Complete =   4%Amount Complete =   5%Amount Complete =   6%Amount Complete =   7%Amount Complete =   8%Amount Complete =   9%Amount Complete =  10%Amount Complete =  11%Amount Complete =  12%Amount Complete =  13%Amount Complete =  14%Amount Complete =  15%Amount Complete =  16%Amount Complete =  17%Amount Complete =  18%Amount Complete =  19%Amount Complete =  20%Amount Complete =  21%Amount Complete =  22%Amount Complete =  23%Amount Complete =  24%Amount Complete =  25%Amount Complete =  26%Amount Complete =  27%Amount Complete =  28%Amount Complete =  29%Amount Complete =  30%Amount Complete =  31%Amount Complete =  32%Amount Complete =  33%Amount Complete =  34%Amount Complete =  35%Amount Complete =  36%Amount Complete =  37%Amount Complete =  38%Amount Complete =  39%Amount Complete =  40%Amount Complete =  41%Amount Complete =  42%Amount Complete =  43%Amount Complete =  44%Amount Complete =  45%Amount Complete =  46%Amount Complete =  47%Amount Complete =  48%Amount Complete =  49%Amount Complete =  50%Amount Complete =  51%Amount Complete =  52%Amount Complete =  53%Amount Complete =  54%Amount Complete =  55%Amount Complete =  56%Amount Complete =  57%Amount Complete =  58%Amount Complete =  59%Amount Complete =  60%Amount Complete =  61%Amount Complete =  62%Amount Complete =  63%Amount Complete =  64%Amount Complete =  65%Amount Complete =  66%Amount Complete =  67%Amount Complete =  68%Amount Complete =  69%Amount Complete =  70%Amount Complete =  71%Amount Complete =  72%Amount Complete =  73%Amount Complete =  74%Amount Complete =  75%Amount Complete =  76%Amount Complete =  77%Amount Complete =  78%Amount Complete =  79%Amount Complete =  80%Amount Complete =  81%Amount Complete =  82%Amount Complete =  83%Amount Complete =  84%Amount Complete =  85%Amount Complete =  86%Amount Complete =  87%Amount Complete =  88%Amount Complete =  89%Amount Complete =  90%Amount Complete =  91%Amount Complete =  92%Amount Complete =  93%Amount Complete =  94%Amount Complete =  95%Amount Complete =  96%Amount Complete =  97%Amount Complete =  98%Amount Complete =  99%Amount Complete = 100%Amount Complete = 100%
+There are 2110 RFI instances.
+
+
+Total number of intervals in the data:  983040
+
+  Number of padded intervals:        0  ( 0.000%)
+  Number of  good  intervals:   945953  (96.227%)
+  Number of  bad   intervals:    37087  ( 3.773%)
+
+  Ten most significant birdies:
+#  Sigma     Period(ms)      Freq(Hz)       Number 
+----------------------------------------------------
+1  28.98     2.5009(29)      399.85(47)     649255  
+2  27.50     44.7392         22.3517        10193   
+3  27.09     30.0487         33.2793        8585    
+4  26.43     91.5121         10.9275        10210   
+5  25.94     22.4946         44.4551        8546    
+6  25.83     45.2419         22.1034        9948    
+7  25.80     89.4785         11.1759        9864    
+8  25.75     0.83345(58)     1199.83(83)    983981  
+9  25.56     1.2504(12)      799.75(77)     994768  
+10 25.34     1.6670(15)      599.90(53)     721151  
+
+  Ten most numerous birdies:
+#  Number    Period(ms)      Freq(Hz)       Sigma 
+----------------------------------------------------
+1  1089199   0.62508(48)     1599.8(1.2)    20.35   
+2  994768    1.2504(12)      799.75(77)     25.56   
+3  983981    0.83345(58)     1199.83(83)    25.75   
+4  933107    0.50003(26)     1999.9(1.0)    18.50   
+5  912035    0.41663(20)     2400.2(1.1)    21.98   
+6  833496    1.00017(74)     999.83(74)     17.08   
+7  739200    0.35717(13)     2799.8(1.0)    15.63   
+8  721151    1.6670(15)      599.90(53)     25.34   
+9  711388    0.71441(37)     1399.76(72)    16.43   
+10 696670    0.55555(19)     1800.03(61)    22.63   
+
+Done.
+
+mv: cannot stat `/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/scripts/presto_proc_15mins/*guppi_56859_SwiftJ1749.4-2807_0002*': No such file or directory
+[('--folder_tag', '20140721'), ('--file_tag', 'guppi_56859_SwiftJ1749.4-2807_0002_0001.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_000[1-3].fits
+guppi_56859_SwiftJ1749.4-2807_0002_out
+15728640
+rfifind -time 2.0 -o guppi_56859_SwiftJ1749.4-2807_0002 /lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_000[1-3].fits

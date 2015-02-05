@@ -1,0 +1,46 @@
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0001.fits
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0002.fits
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0003.fits
+
+
+               Pulsar Data RFI Finder
+                 by Scott M. Ransom
+
+Assuming the data are PSRFITS format...
+Reading PSRFITS data from 3 files:
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0001.fits'
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0002.fits'
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0003.fits'
+
+    Number of files = 3
+       Num of polns = 2 (summed)
+  Center freq (MHz) = 2000
+    Num of channels = 2048
+    Sample time (s) = 6.144e-05     
+     Spectra/subint = 4096
+   Total points (N) = 15728640
+     Total time (s) = 966.3676416   
+     Clipping sigma = 6.000
+   Invert the band? = False
+          Byteswap? = False
+     Remove zeroDM? = False
+     Apply scaling? = False
+     Apply offsets? = False
+     Apply weights? = True
+
+File  Start Spec   Samples     Padding        Start MJD
+----  ----------  ----------  ----------  --------------------
+1              0     5242880           0  56880.17129629629630
+2        5242880     5242880           0  56880.17502456651852
+3       10485760     5242880           0  56880.17875283674074
+
+Analyzing data sections of length 32768 points (2.01327 sec).
+  Prime factors are:  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+Writing mask data  to 'guppi_56880_IGRJ17498-2921_0002_rfifind.mask'.
+Writing  RFI data  to 'guppi_56880_IGRJ17498-2921_0002_rfifind.rfi'.
+Writing statistics to 'guppi_56880_IGRJ17498-2921_0002_rfifind.stats'.
+
+Massaging the data ...
+
+Amount Complete =   0%Amount Complete =   1%Amount Complete =   2%Amount Complete =   3%Amount Complete =   4%

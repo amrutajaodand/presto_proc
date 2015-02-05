@@ -1,0 +1,25 @@
+ Data file name without suffix          =  guppi_56878_SAXJ1808.4-3658_0001_rfifind
+ Telescope used                         =  GBT
+ Instrument used                        =  GUPPI
+ Object being observed                  =  SAXJ1808.4-3658
+ J2000 Right Ascension (hh:mm:ss.ssss)  =  18:08:27.6960
+ J2000 Declination     (dd:mm:ss.ssss)  =  -36:58:43.3200
+ Data observed by                       =  Jason Hessels
+ Epoch of observation (MJD)             =  56878.149456018518517
+ Barycentered?           (1 yes, 0 no)  =  0
+ Number of bins in the time series      =  15728640   
+ Width of each time series bin (sec)    =  6.14399999999999e-05
+ Any breaks in the data? (1 yes, 0 no)  =  0
+ Type of observation (EM band)          =  Radio
+ Beam diameter (arcsec)                 =  371
+ Dispersion measure (cm-3 pc)           =  0
+ Central freq of low channel (MHz)      =  1600
+ Total bandwidth (MHz)                  =  800
+ Number of channels                     =  2048
+ Channel bandwidth (MHz)                =  0.390625
+ Data analyzed by                       =  ajaodand
+ Any additional notes:
+    Project ID AGBT14B_036_02, Date: 2014-08-09T03:35:13.000.
+    2 polns were summed.  Samples have 8 bits.
+
+

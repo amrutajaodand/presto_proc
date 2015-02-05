@@ -1,0 +1,27 @@
+ Data file name without suffix          =  GBT_topo_DM0.00
+ Telescope used                         =  GBT
+ Instrument used                        =  GUPPI
+ Object being observed                  =  M28A
+ J2000 Right Ascension (hh:mm:ss.ssss)  =  18:24:31.9440
+ J2000 Declination     (dd:mm:ss.ssss)  =  -24:52:10.9200
+ Data observed by                       =  unknown
+ Epoch of observation (MJD)             =  56859.047905092592593
+ Barycentered?           (1 yes, 0 no)  =  0
+ Number of bins in the time series      =  4900000    
+ Width of each time series bin (sec)    =  6.14399999999999e-05
+ Any breaks in the data? (1 yes, 0 no)  =  1
+ On/Off bin pair #  1                   =  0          , 4853759    
+ On/Off bin pair #  2                   =  4899999    , 4899999    
+ Type of observation (EM band)          =  Radio
+ Beam diameter (arcsec)                 =  371
+ Dispersion measure (cm-3 pc)           =  0
+ Central freq of low channel (MHz)      =  1600
+ Total bandwidth (MHz)                  =  800
+ Number of channels                     =  2048
+ Channel bandwidth (MHz)                =  0.390625
+ Data analyzed by                       =  ajaodand
+ Any additional notes:
+    Project ID AGBT14B_036_01, Date: 2014-07-21T01:08:59.000.
+    2 polns were summed.  Samples have 8 bits.
+
+

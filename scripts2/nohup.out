@@ -1,0 +1,742 @@
+moving over to the file  20140809_guppi_56878_IGRJ00291+5934_0003_0001.fits
+moving over to the file  20140809_guppi_56878_IGRJ00291+5934_0003_0002.fits
+moving over to the file  20140809_guppi_56878_IGRJ00291+5934_0003_0003.fits
+Traceback (most recent call last):
+  File "presto_proc_03122014.py", line 72, in <module>
+Traceback (most recent call last):
+  File "presto_proc_03122014.py", line 72, in <module>
+Traceback (most recent call last):
+  File "presto_proc_03122014.py", line 72, in <module>
+    dir_ephmer = "ephimeridis_%s"%(path,filename)
+TypeError: not all arguments converted during string formatting    
+dir_ephmer = "ephimeridis_%s"%(path,filename)
+TypeError: not all arguments converted during string formatting
+    dir_ephmer = "ephimeridis_%s"%(path,filename)
+TypeError: not all arguments converted during string formatting
+folder is 20140809
+moving over to the file  20140809_guppi_56878_IGRJ00291+5934_0003_0001.fits
+Traceback (most recent call last):
+  File "run1.py", line 11, in <module>
+    os.system('python presto_proc_03122014.py --folder_tag %s --file_tag  > log%s.log &'%(folder,tag,tag))
+TypeError: not all arguments converted during string formatting
+folder is 20140809
+moving over to the file  20140809_guppi_56878_IGRJ00291+5934_0003_0001.fits
+Traceback (most recent call last):
+  File "run1.py", line 11, in <module>
+    os.system('python presto_proc_03122014.py --folder_tag %s --file_tag  > log%s.log &'%(folder,tag,tag))
+TypeError: not all arguments converted during string formatting
+folder is 20140809
+moving over to the file  20140809_guppi_56878_IGRJ00291+5934_0003_0001.fits
+Traceback (most recent call last):
+  File "run1.py", line 11, in <module>
+    os.system('python presto_proc_03122014.py --folder_tag %s --file_tag  > log%s.log &'%(folder,tag,tag))
+TypeError: not all arguments converted during string formatting
+
+Error in chkfopen(): No such file or directory
+sh: line 1: 30529 Segmentation fault      accelsearch -numharm 4 -zmax 100 guppi_56878_IGRJ00291+5934_0003_0001_topo_DM0.00.dat > accelsearch_out_guppi_56878_IGRJ00291+5934_0003_0001
+mv: cannot stat `*guppi_56878_IGRJ00291+5934_0003_0001_out*': No such file or directory
+xargs: realfft: terminated by signal 11
+xargs: accelsearch: terminated by signal 11
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 8, in <module>
+    import matplotlib
+  File "/usr/lib64/python2.6/site-packages/matplotlib/__init__.py", line 96, in <module>
+    import os, re, shutil, subprocess, sys, warnings
+  File "/usr/lib64/python2.6/subprocess.py", line 425, in <module>
+    import pickle
+  File "/usr/lib64/python2.6/pickle.py", line 1258, in <module>
+    import binascii as _binascii
+KeyboardInterrupt
+ls: cannot access *.ps: No such file or directory
+Usage: ps2pdfwr [options...] (input.[e]ps|-) [output.pdf|-]
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+Error in chkfopen(): No such file or directory
+sh: line 1: 30566 Segmentation fault      accelsearch -numharm 4 -zmax 100 guppi_56878_IGRJ00291+5934_0003_0002_topo_DM0.00.dat > accelsearch_out_guppi_56878_IGRJ00291+5934_0003_0002
+Traceback (most recent call last):
+  File "/home/pulsar64/presto/bin/DDplan.py", line 2, in <module>
+    from numpy import *
+  File "/users/ajaodand/pythonpackages/lib64/python/numpy/__init__.py", line 154, in <module>
+    import random
+  File "/users/ajaodand/pythonpackages/lib64/python/numpy/random/__init__.py", line 87, in <module>
+    from mtrand import *
+  File "mtrand.pyx", line 556, in init mtrand (numpy/random/mtrand/mtrand.c:20477)
+  File "/users/ajaodand/pythonpackages/lib64/python/numpy/core/getlimits.py", line 234, in __init__
+    def __init__(self, int_type):
+KeyboardInterrupt
+mv: cannot stat `*guppi_56878_IGRJ00291+5934_0003_0002_out*': No such file or directory
+xargs: accelsearch: terminated by signal 11
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 7, in <module>
+    import numpy as Num
+  File "/users/ajaodand/pythonpackages/lib64/python/numpy/__init__.py", line 152, in <module>
+    import fft
+  File "/users/ajaodand/pythonpackages/lib64/python/numpy/fft/__init__.py", line 4, in <module>
+    from fftpack import *
+  File "/users/ajaodand/pythonpackages/lib64/python/numpy/fft/fftpack.py", line 32, in <module>
+    """
+KeyboardInterrupt
+ls: cannot access *.ps: No such file or directory
+Usage: ps2pdfwr [options...] (input.[e]ps|-) [output.pdf|-]
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+Error in chkfopen(): No such file or directory
+sh: line 1: 30607 Segmentation fault      accelsearch -numharm 4 -zmax 100 guppi_56878_IGRJ00291+5934_0003_0003_topo_DM0.00.dat > accelsearch_out_guppi_56878_IGRJ00291+5934_0003_0003
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+mv: cannot stat `*guppi_56878_IGRJ00291+5934_0003_0003_out*': No such file or directory
+xargs: realfft: terminated by signal 11
+xargs: accelsearch: terminated by signal 11
+
+(process:30663): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+ls: cannot access *.ps: No such file or directory
+Usage: ps2pdfwr [options...] (input.[e]ps|-) [output.pdf|-]
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+Error in chkfopen(): No such file or directory
+sh: line 1: 31518 Segmentation fault      accelsearch -numharm 4 -zmax 100 guppi_56859_SwiftJ1749.4-2807_0002_0001_topo_DM0.00.dat > accelsearch_out_guppi_56859_SwiftJ1749.4-2807_0002_0001
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+mv: cannot stat `*guppi_56859_SwiftJ1749.4-2807_0002_0001_out*': No such file or directory
+xargs: realfft: terminated by signal 11
+xargs: accelsearch: terminated by signal 11
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+ls: cannot access *.ps: No such file or directory
+Usage: ps2pdfwr [options...] (input.[e]ps|-) [output.pdf|-]
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+Traceback (most recent call last):
+  File "presto_proc_03122014.py", line 99, in <module>
+    numout = roundup(input_params(f,'Spectra per file',4))
+  File "presto_proc_03122014.py", line 80, in roundup
+    return (int(math.ceil(float(x)/(10**(len(str(x))-2)))))*(10**(len(str(x))-2))
+TypeError: float() argument must be a string or a number
+
+Error in chkfopen(): No such file or directory
+sh: line 1: 31616 Segmentation fault      accelsearch -numharm 4 -zmax 100 guppi_56859_SwiftJ1749.4-2807_0002_0003_topo_DM0.00.dat > accelsearch_out_guppi_56859_SwiftJ1749.4-2807_0002_0003
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+mv: cannot stat `*guppi_56859_SwiftJ1749.4-2807_0002_0003_out*': No such file or directory
+xargs: realfft: terminated by signal 11
+xargs: accelsearch: terminated by signal 11
+
+(process:31672): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+KeyboardInterrupt
+ls: cannot access *.ps: No such file or directory
+Usage: ps2pdfwr [options...] (input.[e]ps|-) [output.pdf|-]
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+folder is 20140721
+moving over to the file  20140721_guppi_56859_SwiftJ1749.4-2807_0002_0001.fits
+moving over to the file  20140721_guppi_56859_SwiftJ1749.4-2807_0002_0002.fits
+moving over to the file  20140721_guppi_56859_SwiftJ1749.4-2807_0002_0003.fits
+mv: cannot stat `*guppi_56878_IGRJ00291+5934_0003_0001_out*': No such file or directory
+mv: cannot stat `*guppi_56878_SAXJ1808.4-3658_0001_0001_out*': No such file or directory
+mv: cannot stat `*guppi_56859_SwiftJ1749.4-2807_0002_0001_out*': No such file or directory
+mv: cannot stat `*guppi_56859_XTEJ1814-338_0003_0001_out*': No such file or directory
+mv: cannot stat `*guppi_56880_IGRJ17511-3057_0001_0001_out*': No such file or directory
+mv: cannot stat `*guppi_56880_IGRJ17498-2921_0002_0001_out*': No such file or directory
+mv: cannot stat `*guppi_56890_IGRJ17498-2921_0003_0001_out*': No such file or directory
+
+(process:24352): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+(process:25104): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+(process:25178): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+(process:25946): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+(process:26082): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+(process:26127): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+Error in chkfopen(): No such file or directory
+
+Error in chkfopen(): No such file or directory
+mv: cannot stat `*guppi_56878_IGRJ00291+5934_0003_0002_out*': No such file or directory
+mv: cannot stat `*guppi_56859_SwiftJ1749.4-2807_0002_0002_out*': No such file or directory
+xargs: realfft: terminated by signal 11
+ls: write error: Broken pipe
+mv: cannot stat `*guppi_56878_SAXJ1808.4-3658_0001_0002_out*': No such file or directory
+mv: cannot stat `*guppi_56859_XTEJ1814-338_0003_0002_out*': No such file or directory
+mv: cannot stat `*guppi_56880_IGRJ17511-3057_0001_0002_out*': No such file or directory
+xargs: realfft: terminated by signal 11
+ls: write error: Broken pipe
+mv: cannot stat `*guppi_56880_IGRJ17498-2921_0002_0002_out*': No such file or directory
+
+Error in chkfopen(): No such file or directory
+xargs: accelsearch: exited with status 255; aborting
+ls: write error: Broken pipe
+
+(process:17399): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+Error in chkfopen(): No such file or directory
+xargs: accelsearch: exited with status 255; aborting
+ls: write error: Broken pipe
+
+(process:4518): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+
+(process:4563): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[('--folder_tag', '20140721'), ('--file_tag', 'guppi_56859_SwiftJ1749.4-2807_0002_0002.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_SwiftJ1749.4-2807_0002_0002.fits
+guppi_56859_SwiftJ1749.4-2807_0002_0002
+guppi_56859_SwiftJ1749.4-2807_0002_0002_out
+reached at cands_guppi_56859_SwiftJ1749.4-2807_0002_0002.txt
+16
+
+(process:4784): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[('--folder_tag', '20140721'), ('--file_tag', 'guppi_56859_XTEJ1814-338_0003_0001.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140721/guppi_56859_XTEJ1814-338_0003_0001.fits
+guppi_56859_XTEJ1814-338_0003_0001
+guppi_56859_XTEJ1814-338_0003_0001_out
+reached at cands_guppi_56859_XTEJ1814-338_0003_0001.txt
+157
+
+(process:6251): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:6364): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:6698): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(process:7099): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+[('--folder_tag', '20140809'), ('--file_tag', 'guppi_56878_IGRJ00291+5934_0003_0001.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0001.fits
+guppi_56878_IGRJ00291+5934_0003_0001
+guppi_56878_IGRJ00291+5934_0003_0001_out
+reached at cands_guppi_56878_IGRJ00291+5934_0003_0001.txt
+126
+[('--folder_tag', '20140811'), ('--file_tag', 'guppi_56880_IGRJ17511-3057_0001_0001.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17511-3057_0001_0001.fits
+guppi_56880_IGRJ17511-3057_0001_0001
+guppi_56880_IGRJ17511-3057_0001_0001_out
+reached at cands_guppi_56880_IGRJ17511-3057_0001_0001.txt
+146
+[('--folder_tag', '20140811'), ('--file_tag', 'guppi_56880_IGRJ17498-2921_0002_0001.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17498-2921_0002_0001.fits
+guppi_56880_IGRJ17498-2921_0002_0001
+guppi_56880_IGRJ17498-2921_0002_0001_out
+reached at cands_guppi_56880_IGRJ17498-2921_0002_0001.txt
+156
+[('--folder_tag', '20140809'), ('--file_tag', 'guppi_56878_SAXJ1808.4-3658_0001_0001.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_SAXJ1808.4-3658_0001_0001.fits
+guppi_56878_SAXJ1808.4-3658_0001_0001
+guppi_56878_SAXJ1808.4-3658_0001_0001_out
+reached at cands_guppi_56878_SAXJ1808.4-3658_0001_0001.txt
+361
+
+(process:14518): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory
+[('--folder_tag', '20140811'), ('--file_tag', 'guppi_56880_IGRJ17511-3057_0001_0002.fits')]
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140811/guppi_56880_IGRJ17511-3057_0001_0002.fits
+guppi_56880_IGRJ17511-3057_0001_0002
+guppi_56880_IGRJ17511-3057_0001_0002_out
+reached at cands_guppi_56880_IGRJ17511-3057_0001_0002.txt
+0
+mv: cannot stat `*guppi_56859_SwiftJ1749.4-2807_0002_0003_out*': No such file or directory
+
+(process:22427): Gtk-WARNING **: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Traceback (most recent call last):
+  File "ACCEL_sift.py", line 1, in <module>
+    import sifting, re, glob
+  File "/home/pulsar64/presto/lib/python/sifting.py", line 9, in <module>
+    import matplotlib.pyplot as plt
+  File "/usr/lib64/python2.6/site-packages/matplotlib/pyplot.py", line 78, in <module>
+    new_figure_manager, draw_if_interactive, show = pylab_setup()
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/__init__.py", line 25, in pylab_setup
+    globals(),locals(),[backend_name])
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtkagg.py", line 10, in <module>
+    from matplotlib.backends.backend_gtk import gtk, FigureManagerGTK, FigureCanvasGTK,\
+  File "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_gtk.py", line 8, in <module>
+    import gtk; gdk = gtk.gdk
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 64, in <module>
+    _init()
+  File "/usr/lib64/python2.6/site-packages/gtk-2.0/gtk/__init__.py", line 52, in _init
+    _gtk.init_check()
+RuntimeError: could not open display
+mv: cannot stat `*.pfd.pdf*': No such file or directory
+rm: cannot remove `*.pfd': No such file or directory
+rm: cannot remove `*out**.ps': No such file or directory

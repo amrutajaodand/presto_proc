@@ -1,0 +1,46 @@
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0001.fits
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0002.fits
+/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0003.fits
+
+
+               Pulsar Data RFI Finder
+                 by Scott M. Ransom
+
+Assuming the data are PSRFITS format...
+Reading PSRFITS data from 3 files:
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0001.fits'
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0002.fits'
+  '/lustre/pulsar/scratch/ajaodand/GBT14B-036_AMXPs/20140809/guppi_56878_IGRJ00291+5934_0003_0003.fits'
+
+    Number of files = 3
+       Num of polns = 2 (summed)
+  Center freq (MHz) = 2000
+    Num of channels = 2048
+    Sample time (s) = 6.144e-05     
+     Spectra/subint = 4096
+   Total points (N) = 15728640
+     Total time (s) = 966.3676416   
+     Clipping sigma = 6.000
+   Invert the band? = False
+          Byteswap? = False
+     Remove zeroDM? = False
+     Apply scaling? = False
+     Apply offsets? = False
+     Apply weights? = True
+
+File  Start Spec   Samples     Padding        Start MJD
+----  ----------  ----------  ----------  --------------------
+1              0     5242880           0  56878.20020833333333
+2        5242880     5242880           0  56878.20393660355555
+3       10485760     5242880           0  56878.20766487377778
+
+Analyzing data sections of length 32768 points (2.01327 sec).
+  Prime factors are:  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+
+Writing mask data  to 'guppi_56878_IGRJ00291+5934_0003_rfifind.mask'.
+Writing  RFI data  to 'guppi_56878_IGRJ00291+5934_0003_rfifind.rfi'.
+Writing statistics to 'guppi_56878_IGRJ00291+5934_0003_rfifind.stats'.
+
+Massaging the data ...
+
+Amount Complete =   0%Amount Complete =   1%Amount Complete =   2%Amount Complete =   3%Amount Complete =   4%Amount Complete =   5%Amount Complete =   6%Amount Complete =   7%Amount Complete =   8%Amount Complete =   9%Amount Complete =  10%Amount Complete =  11%Amount Complete =  12%Amount Complete =  13%Amount Complete =  14%Amount Complete =  15%Amount Complete =  16%Amount Complete =  17%Amount Complete =  18%Amount Complete =  19%Amount Complete =  20%Amount Complete =  21%Amount Complete =  22%Amount Complete =  23%Amount Complete =  24%Amount Complete =  25%Amount Complete =  26%Amount Complete =  27%Amount Complete =  28%Amount Complete =  29%Amount Complete =  30%Amount Complete =  31%Amount Complete =  32%Amount Complete =  33%Amount Complete =  34%Amount Complete =  35%Amount Complete =  36%Amount Complete =  37%Amount Complete =  38%Amount Complete =  39%Amount Complete =  40%Amount Complete =  41%Amount Complete =  42%Amount Complete =  43%Amount Complete =  44%Amount Complete =  45%Amount Complete =  46%Amount Complete =  47%Amount Complete =  48%Amount Complete =  49%Amount Complete =  50%Amount Complete =  51%Amount Complete =  52%Amount Complete =  53%Amount Complete =  54%Amount Complete =  55%Amount Complete =  56%Amount Complete =  57%Amount Complete =  58%Amount Complete =  59%Amount Complete =  60%Amount Complete =  61%Amount Complete =  62%Amount Complete =  63%Amount Complete =  64%Amount Complete =  65%Amount Complete =  66%Amount Complete =  67%Amount Complete =  68%Amount Complete =  69%Amount Complete =  70%Amount Complete =  71%Amount Complete =  72%Amount Complete =  73%Amount Complete =  74%Amount Complete =  75%Amount Complete =  76%Amount Complete =  77%Amount Complete =  78%Amount Complete =  79%Amount Complete =  80%Amount Complete =  81%Amount Complete =  82%Amount Complete =  83%Amount Complete =  84%Amount Complete =  85%Amount Complete =  86%Amount Complete =  87%Amount Complete =  88%Amount Complete =  89%Amount Complete =  90%Amount Complete =  91%Amount Complete =  92%Amount Complete =  93%Amount Complete =  94%Amount Complete =  95%Amount Complete =  96%Amount Complete =  97%Amount Complete =  98%Amount Complete =  99%Amount Complete = 100%
